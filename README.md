@@ -17,7 +17,7 @@ cp -r skills/<skill-name>/references ~/.claude/skills/<skill-name>/ 2>/dev/null
 
 Or read any `SKILL.md` straight through — each one is a complete SOP on its own.
 
-**Want new skills as they drop?** Each one is announced — with how to put it to work on a real account — through the TNT Growth newsletter: [tntgrowth.com/skills](https://tntgrowth.com/skills).
+**Want new skills as they drop?** Each one is announced — with how to put it to work on a real account — through the TNT Growth newsletter: [tntgrowth.com/skills](https://tntgrowth.com/skills?utm_source=github&utm_campaign=treboutat).
 
 ## Skills
 
@@ -28,7 +28,7 @@ Or read any `SKILL.md` straight through — each one is a complete SOP on its ow
 | **ads-audit** | 34-point account health audit → scorecard + prioritized fix list | 🔜 Next |
 | **funnel-bottleneck** | Walks the funnel stage-by-stage to pinpoint exactly where performance breaks | 🔜 Soon |
 | **launch-readiness** | Decides whether an account is ready to launch Search / PMax / Demand Gen | 🔜 Soon |
-| _more weekly_ | keyword-rehab, budget calculator, CFO pitch, forecast, incrementality, competitor analysis, + API-driven skills | 🔜 |
+| _more weekly_ | budget calculator, CFO pitch, forecast, incrementality, competitor analysis, + API-driven skills | 🔜 |
 
 ## How these are built
 - **Written for the user, not just for Claude.** Read any `SKILL.md` and you have a usable operating procedure.
@@ -36,6 +36,6 @@ Or read any `SKILL.md` straight through — each one is a complete SOP on its ow
 - **Modify freely.** Swap in your own thresholds and benchmarks. Keep the frontmatter `description` stable — that's what tells Claude when to fire the skill.
 
 ## About
-Built by [TNT Growth](https://tntgrowth.com/skills). Questions or want the full-stack version run on your account? Start at the link.
+Built by [TNT Growth](https://tntgrowth.com/?utm_source=github&utm_campaign=treboutat). Questions or want the full-stack version run on your account? Start at the link.
 
 _Licensed under the [MIT License](LICENSE)._

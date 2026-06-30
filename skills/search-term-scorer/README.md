@@ -30,4 +30,4 @@ Then trigger it in Claude by pasting a search terms report or saying "score my s
 - `tests/` — worked example (happy path) and edge cases
 
 ---
-From [TNT Growth](https://tntgrowth.com/skills). Use it, fork it, change the thresholds to fit your account.
+From [TNT Growth](https://tntgrowth.com/skills?utm_source=github&utm_campaign=treboutat). Use it, fork it, change the thresholds to fit your account.

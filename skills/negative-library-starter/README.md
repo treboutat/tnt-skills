@@ -27,4 +27,4 @@ Then say "build a starter negative library" and give it your business descriptio
 - `tests/` — worked example + the "negative blocks a target keyword" edge case
 
 ---
-From [TNT Growth](https://tntgrowth.com/skills). Want the full account build run for you? Start at the link.
+From [TNT Growth](https://tntgrowth.com/skills?utm_source=github&utm_campaign=treboutat). Want the full account build run for you? Start at the link.
