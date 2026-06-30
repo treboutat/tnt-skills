@@ -1,0 +1,33 @@
+{
+  "name": "tnt-skills",
+  "owner": {
+    "name": "Adam Treboutat / TNT Growth",
+    "url": "https://github.com/treboutat"
+  },
+  "metadata": {
+    "description": "TNT Growth's Google Ads skills for Claude — diagnostics, optimizations, and deliverables drawn from the playbook TNT runs across high-spend paid-search accounts.",
+    "version": "0.1.0",
+    "repository": "https://github.com/treboutat/tnt-skills"
+  },
+  "plugins": [
+    {
+      "name": "tnt-google-ads-skills",
+      "description": "Google Ads skills from TNT Growth's playbook: search-term scoring, account audits, funnel diagnostics, launch-readiness gates, and more. Released roughly one per week.",
+      "source": "./",
+      "strict": false,
+      "version": "0.1.0",
+      "keywords": [
+        "google-ads",
+        "paid-search",
+        "ppc",
+        "tnt-growth",
+        "negative-keywords",
+        "ads-audit"
+      ],
+      "skills": [
+        "./skills/search-term-scorer",
+        "./skills/negative-library-starter"
+      ]
+    }
+  ]
+}
